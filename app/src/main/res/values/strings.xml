@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">DxK Application</string>
+    <string name="app_name">Diana Kang\'s Mobile Application</string>
+    <string name="name_text">Hello! My name is Diana Kang.</string>
+    <string name="fact_text">I was born in Romania, but moved to Seattle 9 years ago.</string>
+    <string name="funFact_text">I know 10 languages: 5 human and 5 programming.</string>
+    <string name="dog_text">I have a Beagle named Smudge:</string>
+    <string name="imgDescription">Smudge Picture</string>
+
 </resources>
